@@ -1,3 +1,10 @@
-## hello-world
+# Hi There!!
 
-Hello! My name is Isadora and I am a freshman at UC Berkeley studying Computer Science and Music. I like working out and watching movies (not at the same time though) and I am excited to get started with Git Hub!
+1. I want to figure out how to use this text editor thingy
+    * this is fun
+2. I want to make a cool looking website
+3. I want to put my projects here. 
+
+[Here is a link to a website I didn't make](https://google.com "Google")
+## Now I want to put a photo here
+![alt text](https://github.com/icwhite/hello-world/blob/new_branch/IMG_5336.JPG)
